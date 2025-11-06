@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7c2055c-45df-4bdc-949d-314d0d934f2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../inventory/src/app/sign-in/page.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../nodejs/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../nodejs/data/products.json" afterDir="false" />
@@ -29,8 +28,8 @@
       <change afterPath="$PROJECT_DIR$/../nodejs/template/product-list.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../nodejs/template/script/script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../nodejs/template/style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qrcode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nextjs_15/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nextjs_15/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nextjs_15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nextjs_15/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todo-testing/jest.config.ts" beforeDir="false" />
@@ -96,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762416625789</updated>
-      <workItem from="1762416626913" duration="1291000" />
+      <workItem from="1762416626913" duration="2568000" />
     </task>
     <servers />
   </component>
